@@ -7,6 +7,7 @@ public class Endereco {
     private String bairro;
     private String estado;
 
+
     public Endereco(){}
 
     public Endereco(String rua, String numero, String complemento, String bairro, String estado) {
